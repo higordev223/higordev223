@@ -21,7 +21,7 @@
 ###
 
 <ul>
-  <li>🌱 I’m currently learning React JS and Next.js Framewok in more depth...</li>
+  <li>🌱 I’m currently learning React JS and Typescript in more depth...</li>
   <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/web223dev?tab=repositories">Github</a></li>
   <li>💬 Ask me about anything tech related, I am happy to help;</li>
   <li>📫 Feel free to ping me on: <a href="mailto:rossgellerdev@gmail.com">Email</a></li>
