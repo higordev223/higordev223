@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=web223dev.web223dev&left_text=Profile%20views"  />
 </div>
@@ -24,6 +28,8 @@
 </ul>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
