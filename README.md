@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=web223dev.web223dev&left_text=Profile%20views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=higordev223.higordev223&left_text=Profile%20views"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 <ul>
   <li>🌱 I’m currently learning React JS and Typescript in more depth...</li>
-  <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/web223dev?tab=repositories">Github</a></li>
+  <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/higordev223?tab=repositories">Github</a></li>
   <li>💬 Ask me about anything tech related, I am happy to help;</li>
   <li>📫 Feel free to ping me on: <a href="mailto:rossgellerdev@gmail.com">Email</a></li>
 </ul>
@@ -78,14 +78,14 @@
 ###
 
 <!-- <div align="left">
-  <img src="https://streak-stats.demolab.com?user=web223dev&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="210" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=higordev223&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="210" alt="streak graph"  />
 </div> -->
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=web223dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=web223dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=higordev223&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=higordev223&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
